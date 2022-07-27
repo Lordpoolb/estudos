@@ -1,0 +1,22 @@
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Prova\Prova\bin\Debug\Prova.exe.config
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Prova\Prova\bin\Debug\Prova.exe
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Prova\Prova\bin\Debug\Prova.pdb
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Prova\Prova\obj\Debug\Prova.csproj.AssemblyReference.cache
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Prova\Prova\obj\Debug\Prova.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Prova\Prova\obj\Debug\Prova.Form1.resources
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Prova\Prova\obj\Debug\Prova.Properties.Resources.resources
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Prova\Prova\obj\Debug\Prova.csproj.GenerateResource.cache
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Prova\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Prova\Prova\obj\Debug\Prova.exe
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Prova\Prova\obj\Debug\Prova.pdb
+C:\Users\Conra\OneDrive\Área de Trabalho\Prova\Prova\bin\Debug\Prova.exe.config
+C:\Users\Conra\OneDrive\Área de Trabalho\Prova\Prova\bin\Debug\Prova.exe
+C:\Users\Conra\OneDrive\Área de Trabalho\Prova\Prova\bin\Debug\Prova.pdb
+C:\Users\Conra\OneDrive\Área de Trabalho\Prova\Prova\obj\Debug\Prova.csproj.AssemblyReference.cache
+C:\Users\Conra\OneDrive\Área de Trabalho\Prova\Prova\obj\Debug\Prova.csproj.SuggestedBindingRedirects.cache
+C:\Users\Conra\OneDrive\Área de Trabalho\Prova\Prova\obj\Debug\Prova.Form1.resources
+C:\Users\Conra\OneDrive\Área de Trabalho\Prova\Prova\obj\Debug\Prova.Properties.Resources.resources
+C:\Users\Conra\OneDrive\Área de Trabalho\Prova\Prova\obj\Debug\Prova.csproj.GenerateResource.cache
+C:\Users\Conra\OneDrive\Área de Trabalho\Prova\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\Users\Conra\OneDrive\Área de Trabalho\Prova\Prova\obj\Debug\Prova.exe
+C:\Users\Conra\OneDrive\Área de Trabalho\Prova\Prova\obj\Debug\Prova.pdb
