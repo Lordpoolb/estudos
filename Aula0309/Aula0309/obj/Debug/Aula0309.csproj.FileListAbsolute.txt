@@ -1,0 +1,11 @@
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Aula0309\Aula0309\bin\Debug\Aula0309.exe.config
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Aula0309\Aula0309\bin\Debug\Aula0309.exe
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Aula0309\Aula0309\bin\Debug\Aula0309.pdb
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Aula0309\Aula0309\obj\Debug\Aula0309.csproj.AssemblyReference.cache
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Aula0309\Aula0309\obj\Debug\Aula0309.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Aula0309\Aula0309\obj\Debug\Aula0309.Form1.resources
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Aula0309\Aula0309\obj\Debug\Aula0309.Properties.Resources.resources
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Aula0309\Aula0309\obj\Debug\Aula0309.csproj.GenerateResource.cache
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Aula0309\Aula0309\obj\Debug\Aula0309.csproj.CoreCompileInputs.cache
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Aula0309\Aula0309\obj\Debug\Aula0309.exe
+C:\Users\Etec\Documents\Cleiton_CONRADO\DS\Aula0309\Aula0309\obj\Debug\Aula0309.pdb
